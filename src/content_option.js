@@ -1,3 +1,4 @@
+import ben from "./assets/images/ben.jpg"
 const logotext = "BEN";
 const meta = {
     title: "Ben khlifa",
@@ -12,7 +13,7 @@ const introdata = {
         
     },
     description: "I am a passionate Junior Web Developer with a strong foundation in HTML, CSS, and JavaScript, along with basic knowledge of server-side languages. My understanding of UI/UX principles, combined with excellent problem-solving and communication skills, allows me to create user-friendly and efficient websites. I hold a bachelor's degree in Computer Science and am eager to stay updated with emerging technologies. I thrive in collaborative environments and am dedicated to continuous learning and career advancement in web development.",
-    your_img_url: "https://unsplash.com/de/fotos/eine-person-die-eine-treppe-hinaufgeht-jz6pmFhRE6c",
+    your_img_url: ben,
 };
 
 const dataabout = {
